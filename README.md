@@ -135,6 +135,3 @@ AI-College-Recommendation/
   reports/
 ```
 
-## Disclaimer
-
-This application uses official CET CAP-IV allotment data for the included city filter, but students must still verify final official cutoff lists, seat matrix, fees, accreditation, institute approvals, and admission notices before making final decisions.
